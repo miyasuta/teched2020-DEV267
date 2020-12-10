@@ -1,6 +1,6 @@
 exports.config = {
   profile: "integration",
-  baseUrl: "<baseUrl>",
+  baseUrl: "http://localhost:4004/fiori.html#manage-books",
   /*auth: {
 		"sapcloud-form": {
 			user: "${params.user}",
